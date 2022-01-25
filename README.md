@@ -60,7 +60,7 @@ Twitter風のWebアプリケーション<br>
 - 概要<br>
 アカウント登録、ログイン、ログアウト、お買い物機能を持つ<br>
 Laravelフレームワークを使用したECサイト<br>
-<img src="https://github.com/tomosuku/MyPortfolio/blob/images/image13.png" width="320px"><br>
+<img src="https://github.com/tomosuku/MyPortfolio/blob/images/image13.png"><br>
 
 - 概要<br>
 AWS上でWordPressサーバを構築してブログ公開も行っておりました<br>
