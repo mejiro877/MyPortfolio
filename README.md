@@ -56,3 +56,12 @@ HTML5/CSSのみで作成<br>
 Twitter風のWebアプリケーション<br>
 <img src="https://github.com/tomosuku/MyPortfolio/blob/images/image10.jpeg" width="320px"><br>
 <img src="https://github.com/tomosuku/MyPortfolio/blob/images/image11.jpeg" width="320px"><br>
+
+- 概要<br>
+アカウント登録、ログイン、ログアウト、お買い物機能を持つ<br>
+Laravelフレームワークを使用したECサイト<br>
+<img src="https://github.com/tomosuku/MyPortfolio/blob/images/image12.jpeg" width="320px"><br>
+
+- 概要<br>
+AWS上でWordPressサーバを構築してブログ公開も行っておりました<br>
+<img src="https://github.com/tomosuku/MyPortfolio/blob/images/image13.jpeg" width="320px"><br>
